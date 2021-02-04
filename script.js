@@ -1,3 +1,7 @@
+
+
+
+
 document.querySelector(".rock").addEventListener("click", () => {
     playersChoice("rock");
 });
